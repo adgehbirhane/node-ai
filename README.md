@@ -1,2 +1,2 @@
 # node-ai
-Access open ai APIs using node js.
+Access open-ai API using node js.

@@ -1,0 +1,16 @@
+{
+  "name": "node-ai",
+  "version": "1.0.0",
+  "description": "openai prompting with nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Belay Birhanu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.24.5"
+  }
+}
